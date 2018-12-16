@@ -48,4 +48,4 @@ this launcher is very similar to ClassiCube's launcher and is simpler to use. (T
 
 * If the server has disabled hacks, key combinations such as fly and speed will not do anything.
 * To see a list of all built in commands, type `/client commands`.
-* To see help for a given built in command, type `/client help <command name>`.
+* To see help for a given built in command, type `/client help <command name>`. 
